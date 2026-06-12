@@ -17,16 +17,12 @@ John is a current sophomore at Vanderbilt University, majoring in Mechanical Eng
 
 ## Work Experience
 
-* Tikkun Olam Makers (TOM)
-  * Global Fellow, August 2024 - Current
-  * President of TOM: Vanderbilt, January 2024 - Current
-  * Logistics Co-Chair of TOM: Vanderbilt, November 2022 - January 2024
-* Human Engineering Research Laboratories, University of Pittsburgh
-  * Undergraduate Research Intern, May 2024 - July 2024
-* Zelik Lab, Center for Rehabilitation Engineering and Assistive Technology (CREATe), Vanderbilt University
-  * Undergraduate Researcher, May 2023 - May 2024
+* Club Baseball, Vanderbilt University
+  * Vice President, May 2026 - Current
+* Vanderbilt University Welding Automation Lab, Vanderbilt University
+  * Undergraduate Researcher, June 2026 - August 2026
 * The Frist Center for Autism and Innovation, Vanderbilt University
-  * Undergraduate Researcher, July 2022 - April 2023
+  * Undergraduate Researcher, June 2026 - August 2026
 * International Motor Sports Association (IMSA)
   * Engineering Intern, July 2025 - August 2025 at the Motul SportsCar Grand Prix
 * Northern Suburban Special Recreation Association (NSSRA)
@@ -36,6 +32,7 @@ John is a current sophomore at Vanderbilt University, majoring in Mechanical Eng
 
 * SolidWorks
 * Fusion 360
+* Welding (MIG, TIG, FSW)
 
 ## Awards 
 
