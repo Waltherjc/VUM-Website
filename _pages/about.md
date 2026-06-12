@@ -12,6 +12,8 @@ John is a current sophomore at Vanderbilt University, majoring in Mechanical Eng
 * Vanderbilt University
   * BE Mechanical Engineering (expected May 2029) 
   * Minors in Innovation & Design Strategy, Digital Fabrication, Engineering Management
+  * National Merit Scholarship Recipient
+  * Vanderbilt University Merit Scholarship Recipient
 
 ## Work Experience
 
@@ -26,7 +28,7 @@ John is a current sophomore at Vanderbilt University, majoring in Mechanical Eng
 * The Frist Center for Autism and Innovation, Vanderbilt University
   * Undergraduate Researcher, July 2022 - April 2023
 * International Motor Sports Association (IMSA)
-  * Engineering Intern, July/August 2025 at the Motul SportsCar Grand Prix
+  * Engineering Intern, July 2025 - August 2025 at the Motul SportsCar Grand Prix
 * Northern Suburban Special Recreation Association (NSSRA)
   * Program Assistant, June 2023 - July 2025
 
