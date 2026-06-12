@@ -5,7 +5,7 @@ title: "About John Walther"
 ---
 
 
-John is a current sophomore at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. Her academic journey is driven by a strong passion for assistive technology, a field where innovation intersects with compassion to empower individuals with disabilities. As the President of TOM: Vanderbilt, she channels this passion into tangible initiatives, fostering collaboration and ingenuity within the community. When she's not studying, you can find her playing pickleball outside with friends, experimenting with new cookie recipes in the kitchen, or crafting homemade cards for upcoming celebrations. Her overall goal is to harness engineering expertise for meaningful societal change, blending curiosity with empathy to drive innovation forward.
+John is currently a sophomore at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. His academic journey is driven by his interest in automotive engineering. As a member of VU Motorsports, he works on car design and metal fabrication with the end goal of successfully competing at the Formula SAE competition in Michigan annually. When he's not studying, you can find him playing baseball for the club team at Vanderbilt, being involved with Tikkun Olam Makers (TOM): Vanderbilt to provide assistive technology for those with physical disabilities, leading a freshman orientation group, or playing sports with his friends. His overall goal is to use what he has learned to work for a racing team and design a championship winning car.
 
 ## Education
 
