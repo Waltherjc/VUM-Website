@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Elizabeth Walther is a current junior at Vanderbilt University, majoring in Mechanical Engineering and triple minoring in Digital Fabrications, Engineering Management, and Special Education. She hopes to purse a career in rehabilitation engineering upon graduation."
+excerpt: "John Walther is a current sophomore at Vanderbilt University, majoring in Mechanical Engineering and triple minoring in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. He hopes to purse a career in automotive engineering upon graduation."
 feature_row:
   - image_path: assets/img/Syringe Pump Feature.png
     alt: "Syringe Pump"
