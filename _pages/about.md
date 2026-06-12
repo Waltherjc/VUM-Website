@@ -25,18 +25,15 @@ John is a current sophomore at Vanderbilt University, majoring in Mechanical Eng
   * Undergraduate Researcher, May 2023 - May 2024
 * The Frist Center for Autism and Innovation, Vanderbilt University
   * Undergraduate Researcher, July 2022 - April 2023
-* Currey Ingram Academy
-  * Teaching Assistant, June 2022 - July 2022
-* Winnetka Park Districk
-  * Junior Figure Skating Instructor, August 2019 - June 2022
+* International Motor Sports Association (IMSA)
+  * Engineering Intern, July/August 2025 at the Motul SportsCar Grand Prix
+* Northern Suburban Special Recreation Association (NSSRA)
+  * Program Assistant, June 2023 - July 2025
 
 ## Technical Skills
 
 * SolidWorks
-  * Credential ID C-RLNBPKMT46
 * Fusion 360
-* Fused Filament Fabrication (FFF)
-* Selective Laser Sintering (SLS)
 
 ## Awards 
 
