@@ -5,7 +5,7 @@ title: "About John Walther"
 ---
 
 
-John is currently a sophomore at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. His academic journey is driven by his interest in automotive engineering. As a member of VU Motorsports, he works on car design and metal fabrication with the end goal of successfully competing at the Formula SAE competition in Michigan annually. When he's not studying, you can find him playing baseball for the club team at Vanderbilt, being involved with Tikkun Olam Makers (TOM): Vanderbilt to provide assistive technology for those with physical disabilities, leading a freshman orientation group, or playing sports with his friends. His overall goal is to use what he has learned to work for a racing team and design a championship winning car.
+John is currently a sophomore at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. His academic journey is driven by his interest in automotive engineering. As a member of VU Motorsports, he works on car design and metal fabrication with the end goal of successfully competing at the Formula SAE internal combustion competition in Michigan annually. When he's not studying, you can find him playing baseball for the club team at Vanderbilt, being involved with Tikkun Olam Makers (TOM): Vanderbilt to provide assistive technology for those with physical disabilities, leading a freshman orientation group, or playing sports with his friends. His overall goal is to use what he has learned to work for a racing team and design a championship winning car.
 
 ## Education
 
@@ -17,8 +17,6 @@ John is currently a sophomore at Vanderbilt University, majoring in Mechanical E
 
 ## Work Experience
 
-* Club Baseball, Vanderbilt University
-  * Vice President, May 2026 - Current
 * Vanderbilt University Welding Automation Lab, Vanderbilt University
   * Undergraduate Researcher, June 2026 - August 2026
 * The Frist Center for Autism and Innovation, Vanderbilt University
@@ -34,12 +32,20 @@ John is currently a sophomore at Vanderbilt University, majoring in Mechanical E
 * Fusion 360
 * Welding (MIG, TIG, FSW)
 
+## Clubs and Organizations
+
+* VU Motorsports (Formula SAE @ Vanderbilt University)
+  * Member: 2025 - Current
+* Tikkun Olam Makers (TOM): Vanderbilt
+  * Member: 2025 - Current
+* VUcept
+  * Freshman Orientation Leader: 2026-Current
+* Vanderbilt Club Baseball
+  * Member: 2025-2026
+  * Vice President: 2026-Current
+
 ## Awards 
 
-* Best Documentation - 2024 Global Innovation Challenge
-  * The TOM Global Innovation Challenge is a competition where teams collaborate to create affordable technology to help individuals with disabilities live more independent, fulfilling lives. Out of more than 400 participants from 20 countries, my team was awarded Best Documentation for our Limb Attachment with Interchangeable Implements.
-* Vanderbilt Award for Leadership Excellence - Community Engagement
-  * Awarded for TOM: Vanderbilt's service efforts that have engaged the local, national, and global community with the intention of creating meaningful and sustainable change. We were specifically recognized for following the guiding principles of humble service, empathy, and human dignity.
-* Grand Prize Winner - 2023 Global Innovation Challenge
-  * The TOM Global Innovation Challenge is a competition where teams collaborate to create affordable technology to help individuals with disabilities live more independent, fulfilling lives. Out of more than 500 participants from 27 countries, my team was awarded one of the four Grand Prizes for our Independent Feeding Device.
+* 3rd Place in Efficiency - Formula SAE IC Michigan 2026
+  * Awarded for efficiently using fuel over the set distance, made possible by having the lightest car in the competition by around 40 lbs. 
 
