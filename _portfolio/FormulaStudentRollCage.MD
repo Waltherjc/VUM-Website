@@ -24,7 +24,7 @@ gallery5:
 <br>
 ## Introduction
 
-The goal of this project was to assemble a roll cage for a high school Formula Student car.
+The goal of this project was to assemble a roll cage for a high school Formula Student car. The roll cage had to meet certain safety standards, as well as accomodating the height of the driver. 
 
 
 ## Design
