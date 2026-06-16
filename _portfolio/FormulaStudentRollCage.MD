@@ -24,7 +24,9 @@ gallery5:
 <br>
 ## Introduction
 
-The goal of this project was to assemble a roll cage for a high school Formula Student car. The roll cage had to meet certain safety standards, as well as accomodating the height of the driver. 
+The goal of this project was to assemble a roll cage for a high school Formula Student car. The roll cage had to meet certain safety standards, as well as accomodating the height of the driver. This roll cage formed the basis for the rest of the Formula Student car that was constructed in later years.
+
+The roll cage fabrication first started with CAD modeling using Autodesk Fusion. Then, using thin flexible wire, the roll cage was outlined on the foundation for the roll cage. After the outline was finished, tubing was cut, notched, and bent to fit the parameters, before being MIG welded.
 
 
 ## Design
