@@ -29,17 +29,7 @@ The suspension was first designed using Autodesk Fusion's CAD modeling software.
 
 ## Design
 
-### CAD Modeling
-The basis of the car's roll cage came from another school's CAD design. However, with the base of the roll cage being assembled in a previous year under different parameters, the roll cage design needed to be modified. <br><br>
-
-The main point of modification was adjusting the connection points between tubes to align with the cross-sectional beams that were established in the base. This meant that many of the components were shortened, lengthened, or their curvature was altered to accomodate those changes. <br><br>
-
-After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes to a square tube. This required multiple iterations to ensure that they all met at a single point to effectively distribute force from the node.
-
-
-### Wire Prototype
-
-Using the modified CAD design, a wire prototype was assembled on top of the base of the roll cage. This was used to ensure that our measurements used in the CAD design were accurate. To accomplish this, thin, pliable metal wire was cut, bent, and taped into position. By using the wire prototype, it would be much easier to translate to the metal tubing by using the metal wire as a measurement tool when cuting the tubing. 
+The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, 
 
 {% include gallery id="gallery1" %}
 
