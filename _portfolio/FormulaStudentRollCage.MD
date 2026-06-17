@@ -30,21 +30,13 @@ The roll cage fabrication first started with CAD modeling using Autodesk Fusion.
 
 
 ## Design
+
 ### CAD Modeling
 The basis of the car's roll cage came from another school's CAD design. However, with the base of the roll cage being assembled in a previous year under different parameters, the roll cage design needed to be modified. <br><br>
 
 The main point of modification was adjusting the connection points between tubes to align with the cross-sectional beams that were established in the base. This meant that many of the components were shortened, lengthened, or their curvature was altered to accomodate those changes. <br><br>
 
 After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes 
-### Clamp Part
-
-The clamp mechanism on the component is modeled after the clamp mechanism on many traditional bike bells, using just one bolt to tighten the device to the handlebars. To accommodate the potential for part growth, the clearance hole diameter on the clamp was increased to allow an M5 bolt to slide through with ease. <br><br>
-
-The main body of this component includes a chamfered cut-out for a heat set insert to easily attach the detent gear. It also includes a spring box, giving supportive sidings to hold the spring and ball bearing in place. The edges of the main body were smoothed in case the user were to inadvertently hit the device while riding the bike. <br><br>
-
-
-This entire part was SLS printed out of nylon powder to eliminate the concern of the part breaking along the layer lines in a traditional FFF PLA print when the clamp is tightened. 
-
 
 ### Rotational Mechanism
 
