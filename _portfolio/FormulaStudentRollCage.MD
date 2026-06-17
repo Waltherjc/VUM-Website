@@ -36,7 +36,20 @@ The basis of the car's roll cage came from another school's CAD design. However,
 
 The main point of modification was adjusting the connection points between tubes to align with the cross-sectional beams that were established in the base. This meant that many of the components were shortened, lengthened, or their curvature was altered to accomodate those changes. <br><br>
 
-After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes 
+After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes to a square tube. This required multiple iterations to ensure that they all met at a single point to effectively distribute force from the node.
+
+
+### Wire Prototype
+
+Using the modified CAD design, a wire prototype was assembled on top of the base of the roll cage. This was used to ensure that our measurements used in the CAD design were accurate. To accomplish this, thin, pliable metal wire was cut, bent, and taped into position. By using the wire prototype, it would be much easier to translate to the metal tubing by using the metal wire as a measurement tool when cuting the tubing. 
+
+
+## Assembly
+
+Starting with straight 1 inch square and circular tubing, pieces were cut using a chop saw. The size of the pieces that were cut was determined by straightening the wire from the prototype. Once the pieces were cut, they had to be modified to properly fit on the car. To get the desired curve for some of the pieces (only the circular tubing was curved), a tube bender was used. For the pieces that were bent (only the square tubing was bent), the desired angle was cut out of the material before bending the tube to close the gap. Half of the desired angle was measured in each direction radiating outward from one side such that when the gap was closed, the two faces were equal is length, making welding more feasible. Finally, to make the pieces of tubing sit as flushly as possible, air grinders and dremels were used to grind down the ends of the tubes to match the desired angle and shape. <br><br>
+
+Once the pieces were cut, they were welded to the roll cage. MIG welding was used due to availability and ease. First, all of the pieces were tack welded into position. This allowed fixes to be made if necessary without wasting too much material. Once everything was tack welded into the correct posion, they were covered by full welds to ensure structural integrity.
+
 
 ### Rotational Mechanism
 
