@@ -30,7 +30,12 @@ The roll cage fabrication first started with CAD modeling using Autodesk Fusion.
 
 
 ## Design
+### CAD Modeling
+The basis of the car's roll cage came from another school's CAD design. However, with the base of the roll cage being assembled in a previous year under different parameters, the roll cage design needed to be modified. <br><br>
 
+The main point of modification was adjusting the connection points between tubes to align with the cross-sectional beams that were established in the base. This meant that many of the components were shortened, lengthened, or their curvature was altered to accomodate those changes. <br><br>
+
+After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes 
 ### Clamp Part
 
 The clamp mechanism on the component is modeled after the clamp mechanism on many traditional bike bells, using just one bolt to tighten the device to the handlebars. To accommodate the potential for part growth, the clearance hole diameter on the clamp was increased to allow an M5 bolt to slide through with ease. <br><br>
