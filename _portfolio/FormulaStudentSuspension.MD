@@ -29,18 +29,22 @@ The suspension was first designed using Autodesk Fusion's CAD modeling software.
 
 ## Design
 
-The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, 
+The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, the clearances were adjusted to allow for the shocks and steering knuckles to fit while still fitting the rest of the parts. However, due to simulations, it was determined that the design would exert too severe of forces, so the fram that supported the suspension had to be modified to better handle the forces. <br><br>
 
 {% include gallery id="gallery1" %}
+
+To create the suspension, there is a top arm and a bottom arm. Both are connected with bolts to the frame such that they are able to move up and down. Each wheel has its own suspension so that each wheel is able to dynamically respond to the terrain. In between the two arms is the wheel hub. The wheel hub is enclosed in a machined box to allow for bolts to connect the pieces better. Each connection between the wheel hub box and arm uses a ball-and-socket joint, with one side of the joint attached to the top of the box and the other side attached to a plate that is welded to the arm. This allows the wheels to turn left and right while the suspension is able to move vertically. The wheel hub box also contains a small arm to which the steering column will be attched. Finally, the bottom arm has an additional cross-sectional piece to hold the shock. The other end of the shock is connected to the frame in between the two upper arm connections.
+
+{% include gallery id="gallery2" %}
 
 
 ## Assembly
 
-Starting with straight 1 inch square and circular tubing, pieces were cut using a chop saw. The size of the pieces that were cut was determined by straightening the wire from the prototype. Once the pieces were cut, they had to be modified to properly fit on the car. To get the desired curve for some of the pieces (only the circular tubing was curved), a tube bender was used. For the pieces that were bent (only the square tubing was bent), the desired angle was cut out of the material before bending the tube to close the gap. Half of the desired angle was measured in each direction radiating outward from one side such that when the gap was closed, the two faces were equal is length, making welding more feasible. Finally, to make the pieces of tubing sit as flushly as possible, air grinders and dremels were used to grind down the ends of the tubes to match the desired angle and shape. <br><br>
+To assemble the arms, straight 1 inch circular tubing was used. On a sheet of paper, the shape of the arms was traced in accordance to the CAD design. Then, using those parameters, the tube was cut using a chop saw. Then, the midpoint of the piece was marked. This was used when the tube was bent to match the CAD design. Finally, the tubing was cut to match the angle of the paper such that the tube was perpendicular to the frame at the point of connection. To ensure those bends stayed, they were MIG welded. The connection point between the frame and the arms was purchased, and the component was welded to the arm as well. <br><br>
+
+The rest of the suspension was fabricated using a plasma CNC machine. Using the files created on Fusion, the plasma CNC machine was able to cut the flat pieces of steel. For the frame, the base, four long tabs to connect the arms to the base, and two small tabs to allow the shock to be bolted to the base were cut on the CNC machine. The base included small holes to allow the tabs to fit properly and to allow for more structural welds. Additionally, the plasma CNC machine cut the two plates that were welded to the end of both the top and bottom arms, the plate that connected the shock to the bottom arm, and the wheel hub box. Finally, all of these components were MIG welded. Once all of the machined parts were assembled, the purchased parts were attached.
 
 {% include gallery id="gallery2" %}
-
-Once the pieces were cut, they were welded to the roll cage. MIG welding was used due to availability and ease. First, all of the pieces were tack welded into position. This allowed fixes to be made if necessary without wasting too much material. Once everything was tack welded into the correct posion, they were covered by full welds to ensure structural integrity.
 
 
 ## Final Model
