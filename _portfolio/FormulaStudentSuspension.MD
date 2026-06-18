@@ -54,4 +54,4 @@ The rest of the suspension was fabricated using a plasma CNC machine. Using the 
 {% include gallery id="gallery5" %}
 
 
-### [(Project Website)](https://new.express.adobe.com/webpage/wja0IBzZU85i3)
+### [Project Website](https://new.express.adobe.com/webpage/wja0IBzZU85i3)
