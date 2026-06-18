@@ -11,7 +11,7 @@ gallery2:
   - image_path: assets/img/Roll Cage Welding.jpg
 gallery3: 
   - image_path: assets/img/John Walther Roll Cage.jpg
-gallery4: 
+gallery4:
   - image_path: assets/img/Bike Real 1.jpg
   - image_path: assets/img/Bike Real 2.jpg
 gallery5: 
