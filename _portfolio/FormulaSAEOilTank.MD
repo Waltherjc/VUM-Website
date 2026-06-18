@@ -22,21 +22,17 @@ gallery5:
 <br>
 ## Introduction
 
-The goal of this project was to design and fabricate an oil tank for a Yamaha YFZ450S engine to be used on the VU Motorsports car. The need for a new oil tank, rather than reusing the OEM oil tank, arose when a new air intake system was created. This made it such that the OEM oil tank no longer fit in the car. Multiple different designs were created due to changes in where the oil tank was going to be located in the car.
+The goal of this project was to design and fabricate an oil tank for a Yamaha YFZ450S engine to be used on the VU Motorsports car. The need for a new oil tank, rather than reusing the OEM oil tank, arose when a new air intake system was created. This made it such that the OEM oil tank no longer fit in the car. Multiple different designs were created due to changes in where the oil tank was going to be located in the car. <br><br>
 
 There were multiple important requirements when constructing the oil tank. First, it had to have a volume of approximately 2 L. The oil capacity for the engine was 1.95 L, with the maximum amount of oil being inside of the oil tank at any time being 1.55 L. Also, it had to be able to be easily constructed using sheet aluminum, meaning that no curved edges or very intricate shapes were possible. Finally, the oil tank had to sit low to the ground in the car. This was because the oil tank being above the engine would cause the engine to be flooded with oil. Further, the oil tank being lower to the ground helped lower the center of mass and improve the weight distribution.
 
 ## Design
 
 ### CAD Modeling
-The basis of the car's roll cage came from another school's CAD design. However, with the base of the roll cage being assembled in a previous year under different parameters, the roll cage design needed to be modified. <br><br>
-
-The main point of modification was adjusting the connection points between tubes to align with the cross-sectional beams that were established in the base. This meant that many of the components were shortened, lengthened, or their curvature was altered to accomodate those changes. <br><br>
-
-After those adjustments were made, the next point of emphasis was the mode of connection between curved and square tubing. Through the cad design, the angle of the tubing had to be documented to ensure proper assembly. The most complex assembly point was a connection of three circular tubes to a square tube. This required multiple iterations to ensure that they all met at a single point to effectively distribute force from the node.
+All of the CAD designs were created using SolidWorks to easily transfer onto the full car assembly CAD file. 
 
 
-### Wire Prototype
+### Cardboard Prototype
 
 Using the modified CAD design, a wire prototype was assembled on top of the base of the roll cage. This was used to ensure that our measurements used in the CAD design were accurate. To accomplish this, thin, pliable metal wire was cut, bent, and taped into position. By using the wire prototype, it would be much easier to translate to the metal tubing by using the metal wire as a measurement tool when cuting the tubing. 
 
