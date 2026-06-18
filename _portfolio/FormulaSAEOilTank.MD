@@ -22,10 +22,9 @@ gallery5:
 <br>
 ## Introduction
 
-The goal of this project was to assemble a roll cage for a high school Formula Student car. The roll cage had to meet certain safety standards, as well as accomodating the height of the driver. This roll cage formed the basis for the rest of the Formula Student car that was constructed in later years. <br><br>
+The goal of this project was to design and fabricate an oil tank for a Yamaha YFZ450S engine to be used on the VU Motorsports car. The need for a new oil tank, rather than reusing the OEM oil tank, arose when a new air intake system was created. This made it such that the OEM oil tank no longer fit in the car. Multiple different designs were created due to changes in where the oil tank was going to be located in the car.
 
-The roll cage fabrication first started with CAD modeling using Autodesk Fusion. Then, using thin flexible wire, the roll cage was outlined on the foundation for the roll cage. After the outline was finished, tubing was cut, notched, and bent to fit the parameters, before being MIG welded.
-
+There were multiple important requirements when constructing the oil tank. First, it had to have a volume of approximately 2 L. The oil capacity for the engine was 1.95 L, with the maximum amount of oil being inside of the oil tank at any time being 1.55 L. Also, it had to be able to be easily constructed using sheet aluminum, meaning that no curved edges or very intricate shapes were possible. Finally, the oil tank had to sit low to the ground in the car. This was because the oil tank being above the engine would cause the engine to be flooded with oil. Also, the oil tank being lower to the ground helped lower the center of mass and improve the weight distribution.
 
 ## Design
 
