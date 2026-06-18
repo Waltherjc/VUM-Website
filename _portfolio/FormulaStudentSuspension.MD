@@ -3,8 +3,8 @@ title: "Formula Student Suspension"
 excerpt: "The front suspension was designed and created to support premaunfactured wheel hubs, brake calipers, and steering knuckles."
 
 header:
-  image: assets/img/Suspension CAD Arm Complete.jpg
-  teaser: assets/img/Suspension CAD Arm Complete.jpg
+  image: assets/img/Suspension CAD Complete.jpg
+  teaser: assets/img/Suspension CAD Complete.jpg
 gallery1:
   - image_path: assets/img/Suspension CAD Iter 1.jpg
   - image_path: assets/img/Suspension CAD Iter 2.jpg
