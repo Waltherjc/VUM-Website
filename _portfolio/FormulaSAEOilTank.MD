@@ -26,10 +26,14 @@ The goal of this project was to design and fabricate an oil tank for a Yamaha YF
 
 There were multiple important requirements when constructing the oil tank. First, it had to have a volume of approximately 2 L. The oil capacity for the engine was 1.95 L, with the maximum amount of oil being inside of the oil tank at any time being 1.55 L. Also, it had to be able to be easily constructed using sheet aluminum, meaning that no curved edges or very intricate shapes were possible. Finally, the oil tank had to sit low to the ground in the car. This was because the oil tank being above the engine would cause the engine to be flooded with oil. Further, the oil tank being lower to the ground helped lower the center of mass and improve the weight distribution.
 
+
 ## Design
 
-### CAD Modeling
-All of the CAD designs were created using SolidWorks to easily transfer onto the full car assembly CAD file. 
+All of the CAD designs were created using SolidWorks to easily transfer onto the full car assembly CAD file.
+
+When initially designing the oil tank, the location that was used was behind the engine and in front of the rear differential. This location was low to the ground, and it was large enough to fit the required amount of oil. However, two problems arose. First, the designs had a flat bottom, which meant that a lot of oil was being wasted since it would be below the oil pickup tubes. To resolve this issue, the bottom was angled such that less oil would sit below the tubes. Also, the team changed the rear differential, causing the space to shrink.
+
+The oil tank location then moved
 
 
 ### Cardboard Prototype
