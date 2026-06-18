@@ -3,19 +3,19 @@ title: "Formula Student Suspension"
 excerpt: "The front suspension was designed and created to support premaunfactured wheel hubs, brake calipers, and steering knuckles."
 
 header:
-  image: assets/img/Bike Full Render.png
-  teaser: assets/img/Bike Full Render.png
+  image: assets/img/Suspension CAD Arm Complete.jpg
+  teaser: assets/img/Suspension CAD Arm Complete.jpg
 gallery1:
-  - image_path: assets/img/Wire Roll Cage.jpg
+  - image_path: assets/img/Suspension CAD Iter 1.jpg
+  - image_path: assets/img/Suspension CAD Iter 2.jpg
+  - image_path: assets/img/Suspension CAD Iter 3.jpg
+  - image_path: assets/img/Suspension CAD Arm Complete.jpg
 gallery2:
-  - image_path: assets/img/Roll Cage Welding.jpg
+  - image_path: assets/img/Suspension CAD Complete.jpg
 gallery3: 
-  - image_path: assets/img/John Walther Roll Cage.jpg
+  - image_path: assets/img/Suspension Arm Outline.jpg
 gallery4: 
-  - image_path: assets/img/Bike Real 1.jpg
-  - image_path: assets/img/Bike Real 2.jpg
-gallery5: 
- - image_path: assets/img/Bike GIF.gif
+  - image_path: assets/img/Suspension Completed.jpg
 
    
 ---
@@ -29,7 +29,7 @@ The suspension was first designed using Autodesk Fusion's CAD modeling software.
 
 ## Design
 
-The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, the clearances were adjusted to allow for the shocks and steering knuckles to fit while still fitting the rest of the parts. However, due to simulations, it was determined that the design would exert too severe of forces, so the fram that supported the suspension had to be modified to better handle the forces. <br><br>
+The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, the clearances were adjusted to allow for the shocks and steering knuckles to fit while still fitting the rest of the parts. However, due to simulations, it was determined that the design would exert too severe of forces, so the frame that supported the suspension had to be modified to better handle the forces. <br><br>
 
 {% include gallery id="gallery1" %}
 
@@ -42,11 +42,11 @@ To create the suspension, there is a top arm and a bottom arm. Both are connecte
 
 To assemble the arms, straight 1 inch circular tubing was used. On a sheet of paper, the shape of the arms was traced in accordance to the CAD design. Then, using those parameters, the tube was cut using a chop saw. Then, the midpoint of the piece was marked. This was used when the tube was bent to match the CAD design. Finally, the tubing was cut to match the angle of the paper such that the tube was perpendicular to the frame at the point of connection. To ensure those bends stayed, they were MIG welded. The connection point between the frame and the arms was purchased, and the component was welded to the arm as well. <br><br>
 
-The rest of the suspension was fabricated using a plasma CNC machine. Using the files created on Fusion, the plasma CNC machine was able to cut the flat pieces of steel. For the frame, the base, four long tabs to connect the arms to the base, and two small tabs to allow the shock to be bolted to the base were cut on the CNC machine. The base included small holes to allow the tabs to fit properly and to allow for more structural welds. Additionally, the plasma CNC machine cut the two plates that were welded to the end of both the top and bottom arms, the plate that connected the shock to the bottom arm, and the wheel hub box. Finally, all of these components were MIG welded. Once all of the machined parts were assembled, the purchased parts were attached.
+{% include gallery id="gallery3" %}
 
-{% include gallery id="gallery2" %}
+The rest of the suspension was fabricated using a plasma CNC machine. Using the files created on Fusion, the plasma CNC machine was able to cut the flat pieces of steel. For the frame, the base, four long tabs to connect the arms to the base, and two small tabs to allow the shock to be bolted to the base were cut on the CNC machine. The base included small holes to allow the tabs to fit properly and to allow for more structural welds. Additionally, the plasma CNC machine cut the two plates that were welded to the end of both the top and bottom arms, the plate that connected the shock to the bottom arm, and the wheel hub box. Finally, all of these components were MIG welded. Once all of the machined parts were assembled, the purchased parts were attached.
 
 
 ## Final Model
 
-{% include gallery id="gallery3" %}
+{% include gallery id="gallery4" %}
