@@ -105,4 +105,4 @@ To rotate the phone, simply push down into the spring and spin the phone to the 
 {% include gallery id="gallery4" %}
 
 
-### [(Project Website)](https://new.express.adobe.com/webpage/wja0IBzZU85i3)
+### [Project Website](https://new.express.adobe.com/webpage/wja0IBzZU85i3)
