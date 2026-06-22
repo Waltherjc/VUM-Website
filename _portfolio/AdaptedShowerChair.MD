@@ -29,7 +29,7 @@ This project was a part of the 2025 Vanderbilt TOM Makeathon Event (10/24/25 - 1
 
 ## Design
 
-The foundation of this chair was a shower chair purchased off of Amazon (LINK HERE). This specific chair allowed the leg height to be adjusted, which was perfect as it would allow the chair to grow with Miyako. <br><br>
+The foundation of this chair was a shower chair purchased off of Amazon [(Link Here)](https://www.amazon.com/OasisSpace-Adjustable-Anti-Slip-Disabled-Assembly/dp/B0CYFRMGVQ/ref=sr_1_25_sspa?crid=25PR4CSANL0IU&dib=eyJ2IjoiMSJ9.OMCBK0PdtcMTvtuV_IZwG9mVzX32AE2_CQO6FsKyVrlmVlyK2RwG8AN8eEoGZrM0JGs_erNdrOfpFTYqX3ov12hdMclw9shaA4EVGtieqjw.nTSzBMvRVqWZLxZOb9NoJnozkq0NQcoixHEIrWMHuG0&dib_tag=se&keywords=shower%2Bstool%2Bfor%2Binside%2Bshower%2Bkids&qid=1759209954&s=home-garden&sprefix=shower%2Bstool%2Bfor%2Binside%2Bshower%2Bkid%2Cgarden%2C85&sr=1-25-spons&xpid=Z7gV1u5ZDV8U4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1). This specific chair allowed the leg height to be adjusted, which was perfect as it would allow the chair to grow with Miyako. <br><br>
 
 To fabricate the supports, it was decided that PVC piping would be ideal. It is sturdy enough to support weight, and it is water resistant. Pool noodles then covered the PVC pipes where Miyako made contact with the back and arm supports to make the the seat more comfortable. <br><br>
 
