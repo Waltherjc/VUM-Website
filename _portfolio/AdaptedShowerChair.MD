@@ -23,7 +23,7 @@ gallery5:
 <br>
 ## Introduction
 
-The goal of this project was to design and assemble the front suspension for a high school Formula Student car. Multiple iterations were needed in order to ensure that the design for the front suspension fit the purchased wheel hubs, brake calipers, and steering knuckles. <br><br>
+The project was designed to help a 9 year old girl with muscular distrophy. <br><br>
 
 The suspension was first designed using Autodesk Fusion's CAD modeling software. Then, the suspension was assembled using multiple different manufacturing processes. Finally, the purchased components were bolted to the suspension, and the suspension was bolted to the chasis of the car.
 
