@@ -29,29 +29,24 @@ There were multiple important requirements when constructing the oil tank. First
 
 ## Design
 
-All of the CAD designs were created using SolidWorks to easily transfer onto the full car assembly CAD file.
+All of the CAD designs were created using SolidWorks to easily transfer onto the full car assembly CAD file. <br><br>
 
-When initially designing the oil tank, the location that was used was behind the engine and in front of the rear differential. This location was low to the ground, and it was large enough to fit the required amount of oil. However, two problems arose. First, the designs had a flat bottom, which meant that a lot of oil was being wasted since it would be below the oil pickup tubes. To resolve this issue, the bottom was angled such that less oil would sit below the tubes. Also, the team changed the rear differential, causing the space to shrink.
+When initially designing the oil tank, the location that was used was behind the engine and in front of the rear differential. This location was low to the ground, and it was large enough to fit the required amount of oil. However, two problems arose. First, the designs had a flat bottom, which meant that a lot of oil was being wasted since it would be below the oil pickup tubes. To resolve this issue, the bottom was angled such that less oil would sit below the tubes. Also, the team changed the rear differential, causing the space to shrink. <br><br>
 
-The oil tank location then moved
+The oil tank location then moved to the right side of the car, tucked between the engine and the roll cage of the car. This allowed the bottom of the oil tank to be angled, but new problems arose. First, in order to have a volume great enough to fit the oil, the side closer to the roll cage had to be very complex, making the eventual fabrication very difficult. Also, the bottom of the oil tank became too skinny for the filter that is attached to the oil pickup tubes. Finally, too much of the oil tank would have had to be above the engine, causing the engine to flood. <br><br>
+
+The final oil tank location was situated in front of the engine and behind the fire wall that separated the driver and the engine. This space allowed most of the oil tank to be below the engine, the bottom could be pitched, and it had a base thick enough to accomodate the oil pickup tube filter. Initially, the car's battery was in this location, but the battery location was a lot more flexible than the oil tank, so it was moved to make space for the oil tank. This iteration had the oil pickup tube slightly above the bottom due to a tube from the roll cage blocking the bottom. Further, one side of the oil tank was slanted to match the fire wall, with a clearance of 0.25 in to prevent damage from vibrations. Finally, the side that faced the outside of the car was angled to match the profile of the roll cage, maximizing the space and minimizing the interference with other parts of the car.
 
 
 ### Cardboard Prototype
 
-Using the modified CAD design, a wire prototype was assembled on top of the base of the roll cage. This was used to ensure that our measurements used in the CAD design were accurate. To accomplish this, thin, pliable metal wire was cut, bent, and taped into position. By using the wire prototype, it would be much easier to translate to the metal tubing by using the metal wire as a measurement tool when cuting the tubing. 
+Using the finalized CAD design, the faces of the oil tank were cut out of cardboard to ensure that the measurements were accurate. Then, they were adhered according to the CAD file using hot glue to avoid the pieces from moving while being fitted into the car. Although the measurements were not exact due to the limitations of the measuring devices used and the thickness of the cardboard, it fit into the desired location, with enough clearance for the necessary parts. 
 
 {% include gallery id="gallery1" %}
 
 
-## Assembly
+## Conclusion
 
-Starting with straight 1 inch square and circular tubing, pieces were cut using a chop saw. The size of the pieces that were cut was determined by straightening the wire from the prototype. Once the pieces were cut, they had to be modified to properly fit on the car. To get the desired curve for some of the pieces (only the circular tubing was curved), a tube bender was used. For the pieces that were bent (only the square tubing was bent), the desired angle was cut out of the material before bending the tube to close the gap. Half of the desired angle was measured in each direction radiating outward from one side such that when the gap was closed, the two faces were equal is length, making welding more feasible. Finally, to make the pieces of tubing sit as flushly as possible, air grinders and dremels were used to grind down the ends of the tubes to match the desired angle and shape. <br><br>
+Once the cardboard model confirmed the measurements, the oil tank began to be fabricated out of think sheets of aluminum. Each side was cut seperately to fine tune the angles besides the top and back faces, which were cut jointly and bent to form a 90 degree angle using a sheet metal bender. Then, to afix the oil pickup tube to the oil tank, an elongated parallelogram with fillets had to be cut out of the material. To do this without compromising the rest of the side, the center of the parallelogram was drilled out, with files used to discard the rest of the material interfering with the fitment. <br><br>
 
-{% include gallery id="gallery2" %}
-
-Once the pieces were cut, they were welded to the roll cage. MIG welding was used due to availability and ease. First, all of the pieces were tack welded into position. This allowed fixes to be made if necessary without wasting too much material. Once everything was tack welded into the correct posion, they were covered by full welds to ensure structural integrity.
-
-
-## Final Model
-
-{% include gallery id="gallery3" %}
+Once all of the pieces were cut and bent, they were going to be welded. However, before they were able to be welded, the car design had an overhaul. The new air intake system was deemed not ready for competition, and it had to be replaced by an air intake system that was located outside of the roll cage. This then allowed the OEM oil tank to fit back into the car, which was ultimately what happened.
