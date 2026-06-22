@@ -23,21 +23,17 @@ gallery5:
 <br>
 ## Introduction
 
-The project was designed to help a 9 year old girl with muscular distrophy. <br><br>
+The project was designed to help Miyako, a 9 year old girl with muscular distrophy. Recently, she underwent surgery to fuse her neck and place rods in her back. This improved her posture, but it limited her head movement. Before this project, Miyako was unable to independly shower, relying on her parents to assist her. The goal of the project was to design a shower chair that fit her and gave her enough support to be more independent in her daily activities. Many of the supportive shower chairs that were available on the market were either too small (toddler sized), or they were too big (adult sized). <br><br>
 
-The suspension was first designed using Autodesk Fusion's CAD modeling software. Then, the suspension was assembled using multiple different manufacturing processes. Finally, the purchased components were bolted to the suspension, and the suspension was bolted to the chasis of the car.
-
+This project was a part of the 2025 Vanderbilt TOM Makeathon Event (10/24/25 - 10/26/25).
 
 ## Design
 
-The front suspension went through 4 iterations. The first two iterations did not give enough room for the brake calipers and wheel hubs to have their full range of motion. These problems were resolved in the third iteration, but the shocks and steering knuckles still were unable to fit. In the fourth and final iteration, the clearances were adjusted to allow for the shocks and steering knuckles to fit while still fitting the rest of the parts. However, due to simulations, it was determined that the design would exert too severe of forces, so the frame that supported the suspension had to be modified to better handle the forces. <br><br>
+The foundation of this chair was a shower chair purchased off of Amazon (LINK HERE). This specific chair allowed the leg height to be adjusted, which was perfect as it would allow the chair to grow with Miyako. <br><br>
 
-{% include gallery id="gallery1" caption="Iterations 1 and 2"%}
-{% include gallery id="gallery2" caption="Iterations 3 and 4"%}
+To fabricate the supports, it was decided that PVC piping would be ideal. It is sturdy enough to support weight, and it is water resistant. Pool noodles then covered the PVC pipes where Miyako make contact with the back and arm supports to make the the seat more comfortable. <br><br>
 
-To create the suspension, there is a top arm and a bottom arm. Both are connected with bolts to the frame such that they are able to move up and down. Each wheel has its own suspension so that each wheel is able to dynamically respond to the terrain. In between the two arms is the wheel hub. The wheel hub is enclosed in a machined box to allow for bolts to connect the pieces better. Each connection between the wheel hub box and arm uses a ball-and-socket joint, with one side of the joint attached to the top of the box and the other side attached to a plate that is welded to the arm. This allows the wheels to turn left and right while the suspension is able to move vertically. The wheel hub box also contains a small arm to which the steering column will be attched. Finally, the bottom arm has an additional cross-sectional piece to hold the shock. The other end of the shock is connected to the frame in between the two upper arm connections.
-
-{% include gallery id="gallery3" %}
+Finally, a shower bag was attached to one of the arms to allow Miyako to more easily access her soap and other shower tools. To do this, small hooks were attached to the arm, and the bag was hooked onto it to allow the bag to be taken off and washed periodically.
 
 
 ## Assembly
