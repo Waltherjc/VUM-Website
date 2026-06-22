@@ -11,9 +11,9 @@ header:
 excerpt: "John Walther is a current sophomore at Vanderbilt University, majoring in Mechanical Engineering and triple minoring in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. He hopes to purse a career in automotive engineering upon graduation."
 feature_row:
   - image_path: assets/img/Syringe Pump Feature.png
-    alt: "Syringe Pump"
-    title: "3D Printed Motorized Syringe Pump"
-    excerpt: "Programmed to accurately deliver liquid from 5mL - 20mL syringes."
+    alt: "Formula SAE Oil Tank"
+    title: "Formula SAE Oil Tank"
+    excerpt: "This oil tank design was made for the VU Motorsports car due to space limitations."
 
 ---
 
