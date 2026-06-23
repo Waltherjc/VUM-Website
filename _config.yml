@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Walther"
+title                    : "NAME"
 title_separator          : "-"
 subtitle                 : "Engineering Portfolio"
-name                     : &name "John Walther" # &name is a YAML anchor which can be *referenced later
+name                     : &name "NAME" # &name is a YAML anchor which can be *referenced later
 description              : &description "Engineering Portfolio"
-url                      : https://Waltherjc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://GITHUBUSERNAME.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,16 +97,16 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/John Walther Headshot Square.jpg"
-  bio              : "A mechanical engineering sophomore interested in automotive engineering"
-  location         : "Brentwood, TN"
+  avatar           : "/assets/img/Generic Profile Pic.jpg"
+  bio              : "A (MAJOR) (YEAR) interested in (SPECIFIC FIELD YOU ARE INTERESTED IN)"
+  location         : "HOMETOWN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Waltherjc"
+      url: "https://github.com/(GITHUBUSERNAME)"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/john-c-walther/"
+      url: "https://www.linkedin.com/in/(LINKEDINUSERNAME)/"
 
 
 # Site Footer
@@ -114,10 +114,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Waltherjc"
+      url: "https://github.com/GITHUBUSERNAME"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/john-c-walther/"
+      url: "https://www.linkedin.com/in/LINKEDINUSERNAME/"
 
 
 # Reading Files
