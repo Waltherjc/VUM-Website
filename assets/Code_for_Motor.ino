@@ -7,7 +7,7 @@ void setup() {
 stepper.setMaxSpeed(1000);
 stepper.setSpeed(50);
 }
-
+ 
 void loop() {
   // put your main code here, to run repeatedly:
 stepper.runSpeed();
