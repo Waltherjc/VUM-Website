@@ -8,12 +8,12 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "John Walther is a current sophomore at Vanderbilt University, majoring in Mechanical Engineering and triple minoring in Innovation & Design Strategy, Digital Fabrication, and Engineering Management. He hopes to purse a career in automotive engineering upon graduation."
+excerpt: "(NAME) is a current (YEAR IN SCHOOL) at Vanderbilt University, majoring in (MAJOR) and minoring in (MINORS IF APPLICABLE). (PRONOUN) hopes to purse a career in (DESIRED FIELD OF WORK) upon graduation."
 feature_row:
   - image_path: assets/img/Syringe Pump Feature.png
-    alt: "Formula SAE Oil Tank"
-    title: "Formula SAE Oil Tank"
-    excerpt: "This oil tank design was made for the VU Motorsports car due to space limitations."
+    alt: "Example Project"
+    title: "Example Project"
+    excerpt: "This project should be used as an outline for the rest of your portfolio projects."
 
 ---
 
