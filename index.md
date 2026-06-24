@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "(NAME) is a current (YEAR IN SCHOOL) at Vanderbilt University, majoring in (MAJOR) and minoring in (MINORS IF APPLICABLE). (PRONOUN) hopes to purse a career in (DESIRED FIELD OF WORK) upon graduation."
 feature_row:
-  - image_path: assets/img/Syringe Pump Feature.png
+  - image_path: assets/img/Generic Project Pic.jpg
     alt: "Example Project"
     title: "Example Project"
     excerpt: "This project should be used as an outline for the rest of your portfolio projects."
