@@ -18,6 +18,8 @@ gallery2:
 
 This is where you briefly introduce your project (1/2 short paragraphs). In this intro, you explain the objective, an outline of how you achieved that objective, and any other relevant information for the project.
 
+{% include gallery id="gallery1" %}
+
 ## Design
 
 In this section, you can describe how you designed the thing. Whether it be using CAD software or sketches or cardboard prototypes, this section should be explaining your thought process. You should also explain the thought process behind the materials that you used.
@@ -31,4 +33,4 @@ In this section, you want to describe the maunfacturing process and materials us
 
 Here, you can insert a photo of your final model, with a caption if you feel it is necessary.
 
-{% include gallery id="gallery1" %}
+{% include gallery id="gallery2" %}
