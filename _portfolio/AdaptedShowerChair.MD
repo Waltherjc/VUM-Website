@@ -1,6 +1,6 @@
 ---
-title: "Adapted Shower Chair"
-excerpt: "The shower chair was designed for a 9 year old with muscular distrophy, affecting her mobility."
+title: "Project Template"
+excerpt: "This is a rough outline of how your projects should be formatted for your portfolio."
 
 header:
   image: assets/img/Suspension CAD Complete.jpg
