@@ -35,3 +35,11 @@ Here, you can insert a photo of your final model, with a caption if you feel it 
 
 {% include gallery id="gallery2" %}
 
+
+| **Row Title 1** | **Row Title 2** | **Row Title 3** | **Row Title 4** |
+|:---------:|:----------:|:-------------:|:-------------:|
+| Column Title 1 | XXX | XXX | XXX |
+| Column Title 2 | XXX | XXX | XXX |
+| Column Title 2 | XXX | XXX | XXX |
+
+
