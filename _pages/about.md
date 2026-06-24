@@ -39,10 +39,4 @@ BIO (Things to highlight: year, university, major, minors, area of academic focu
 
 * Name of Award - (Group giving the award, if applicable)(year of award)
   * Short, one sentence description of what the award was for
- 
-## New Section
-
-Info under New Section
-* Info under New Section
-  * Info under New Section
 
