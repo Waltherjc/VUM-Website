@@ -1,5 +1,5 @@
 ---
-title: "Engineering Portfolio"
+title: "VU Motorsports"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "(NAME) is a current (YEAR IN SCHOOL) at Vanderbilt University, majoring in (MAJOR) and minoring in (MINORS IF APPLICABLE). (PRONOUN) hopes to purse a career in (DESIRED FIELD OF WORK) upon graduation."
+excerpt: "VU Motorsports is a team comprised of undergraduate students at Vanderbilt University who design, manufacture, and test a Formula SAE race car, with the end goal of competing in the annual Formula SAE IC competition."
 feature_row:
   - image_path: assets/img/Generic Project Pic.jpg
     alt: "Example Project"
