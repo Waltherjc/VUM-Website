@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NAME"
+title                    : "Vanderbilt University Motorsports"
 title_separator          : "-"
-subtitle                 : "Engineering Portfolio"
-name                     : &name "NAME" # &name is a YAML anchor which can be *referenced later
-description              : &description "Engineering Portfolio"
-url                      : https://GITHUBUSERNAME.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Formula SAE Team"
+name                     : &name "VU Motorsports" # &name is a YAML anchor which can be *referenced later
+description              : &description "???"
+url                      : https://vanderbiltmotorsports.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,27 +97,33 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/Generic Profile Pic.jpg"
-  bio              : "A (MAJOR) (YEAR) interested in (SPECIFIC FIELD YOU ARE INTERESTED IN)"
-  location         : "HOMETOWN"
+  avatar           : "/assets/img/VUMotorsportsLogo.jpg"
+  bio              : "The Formula SAE team of Vanderbilt University"
+  location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/(GITHUBUSERNAME)"
+    - label: "Formula SAE"
+      icon: "fas fa-globe"
+      url: "https://www.fsaeonline.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vanderbilt_motorsports/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/(LINKEDINUSERNAME)/"
+      url: "https://www.linkedin.com/company/vanderbiltmotorsports/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/GITHUBUSERNAME"
+    - label: "Formula SAE"
+      icon: "fas fa-globe"
+      url: "https://www.fsaeonline.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vanderbilt_motorsports/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/LINKEDINUSERNAME/"
+      url: "https://www.linkedin.com/company/vanderbiltmotorsports/"
 
 
 # Reading Files
@@ -210,6 +216,29 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+  # Apply to all other pages not in collections
+  - scope:
+      path: ""
+    values:
+      search_exclude: false  # Make sure all pages are searchable, unless explicitly excluded
+
+  # Exclude unwanted files from search
+  - scope:
+      path: "404.html"
+    values:
+      search_exclude: true
+
+ # - scope:
+   #   path: "feed.xml"
+  #  values:
+  #    search_exclude: true
+
+  - scope:
+      path: "sitemap.xml"
+    values:
+      search_exclude: true
+
 
 
 # Sass/SCSS
