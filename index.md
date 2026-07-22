@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.2"
   overlay_image: assets/img/VUM_overlay.jpeg
   actions:
-    - label: "My Projects"
-      url: "/portfolio/"
+    - label: "Sponsor Us!"
+      url: DONATION URL
 excerpt: "VU Motorsports is a team comprised of undergraduate students at Vanderbilt University who design, manufacture, and test a Formula SAE race car, with the end goal of competing in the annual Formula SAE IC competition."
 feature_row:
   - image_path: assets/img/Generic Project Pic.jpg
